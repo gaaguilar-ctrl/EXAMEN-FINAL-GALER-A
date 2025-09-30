@@ -1,0 +1,4 @@
+.div7 {
+  grid-column: 1 / span 2; 
+  grid-row: 3 / span 2;
+}
